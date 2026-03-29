@@ -1,7 +1,7 @@
 # -Vithyarthi-AI-ML-project
 Lane Detection Project
 
-This project implements a basic Lane Detection System using Python and OpenCV. It detects lane lines on roads from a video file or webcam feed, which is a fundamental concept used in self-driving cars.
+This project implements a basic Lane Detection System using Python and OpenCV. It detects lane lines on roads from a video file, which is a fundamental concept used in safety-driving cars.
 
 Features:-
 Detects lane lines in real-time
@@ -14,7 +14,7 @@ Lane-Detection/
 
 ├── lane.py              
 ├── roadbackground short video..mp4        
-├── README.md             Project documentation
+├── README.md 
 
  Requirements:-
 
@@ -35,10 +35,7 @@ Run:
 
 python lane.py
 
-2. Using Webcam
-
 Replace video capture line with:
-
 
 cv2.VideoCapture(0)
 
