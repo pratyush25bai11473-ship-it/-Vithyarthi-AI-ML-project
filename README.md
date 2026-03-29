@@ -72,5 +72,9 @@ Check file path
 
 Ensure video format is supported (.mp4 recommended)
 
+Contact information:-For any enquires,support or contributions,please contact:pratyush.25bai11473@vitbhopal.ac.in
+
+License:-this project is licensed under MIT license,allowing users to freely use, modify and distribute the software with proper attributions 
+
 Notes:-
 This is a basic implementation and may not work perfectly in all conditions  performance depends on lighting and road clarity
